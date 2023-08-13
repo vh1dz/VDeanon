@@ -8,8 +8,8 @@
 apt update && apt upgrade -y
 apt install python
 apt install git
-git clone https://github.com/illia841/Deanon/
-cd Deanon
+git clone https://github.com/vh1dz/VDeanon
+cd VDeanon
 pip install -r requirements.txt
 ```
 ### Windows
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### Linux or Termux 
 Зайдите в папку в которую устанавливали проект, а далее введите команды ниже
 ```sh
-cd Deanon
+cd VDeanon
 python3 main.py
 ```
 
